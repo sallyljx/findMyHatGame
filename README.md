@@ -4,7 +4,7 @@ JavaScript assessment
 # 1.)What did you like about this project?
 We did not have to do the assessment from scratch, it's a fun project and my second game project which developed by using javaScript. 
 
-> My 1st Game : Guess My Num
+> My 1st Game : Guess My Num ;
 > My 2nd Game : Find My Hat
 
 And more to come......
